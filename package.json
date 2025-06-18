@@ -1,5 +1,5 @@
 {
-  "name": "markdown-editor-elec-app",
+  "name": "simple-markdown-editor-elec-app",
   "version": "1.0.0",
   "description": "simple markdown editor made with electronjs",
   "main": "./app/main.js",
