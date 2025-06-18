@@ -1,0 +1,16 @@
+{
+  "name": "markdown-editor-elec-app",
+  "version": "1.0.0",
+  "description": "simple markdown editor made with electronjs",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron --trace-warnings .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran Qadir",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^36.2.0",
+    "marked": "^15.0.12"
+  }
+}
